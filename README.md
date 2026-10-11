@@ -82,12 +82,14 @@
 
 ![关卡导航与微手势指向](scene-03.png)
 
+![沉浸式场景与装配过程](scene-04.png)
+
 ## 演示构建
 
 仓库不直接存放大型二进制文件。Android 演示构建 `democap.apk` 已放入 GitHub Release，适合在对应的 Meta Quest 测试环境中体验。
 
 - [下载演示构建（Release）](../../releases/latest)
-- [观看带字幕项目讲解视频（Release）](../../releases/latest)
+- [观看带字幕项目讲解视频（MP4）](../../releases/download/v1.0-demo/qiaomu-tiangong-demo-subtitled.mp4)
 
 由于设备、SDK 和运行时版本可能影响兼容性，建议在 Meta Quest 设备及相应开发环境中测试。当前仓库主要用于作品集展示，未包含完整 Unity 源工程及第三方依赖缓存。
 
